@@ -1,11 +1,13 @@
 # ArduinoRotaryEncoderLED
 ### Arduino code for RGB LED lights managed by a knob switch / button (rotary encoder)
+<hr>
 
 &emsp;The code features 9 modes of color coice: white, blue, red, green, blend all RGB / custom shade, red dim, green dim, blue dim, purple dim. 
 
 &emsp;Each color can be adjusted by turning the knob to adjust the value by bits for each color.
 
 ## Mode Functions:
+<hr>
 
   &emsp;Zero: all LEDs set to bright white
   
@@ -26,7 +28,14 @@
   &emsp;Eight: purple dimmable range
   
 ## Rotary Switch / Encoder Functions:
+<hr>
 
   &emsp;Button Press: changes modes
   
   &emsp;Knob Twisting: adjusts hue and brightness on dimmables
+
+### Future Additions:
+&emsp;- breathing / pulsating animations
+&emsp;- flash animations
+&emsp;- time adjustable modes
+&emsp;- other button types integration
