@@ -35,7 +35,7 @@
   &emsp;Knob Twisting: adjusts hue and brightness on dimmables
 
 ### Future Additions:
-&emsp;- breathing / pulsating animations
-&emsp;- flash animations
-&emsp;- time adjustable modes
-&emsp;- other button types integration
+<br/> - breathing / pulsating animations
+<br/> - flash animations
+<br/> - time adjustable modes
+<br/> - other button types integration
